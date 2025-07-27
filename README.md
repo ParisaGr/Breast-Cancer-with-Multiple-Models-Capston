@@ -39,7 +39,7 @@ The project covered:
 - K-Nearest Neighbors
 - Neural Network
 
-## Results: 
+## Results
 Model Performance:
    
  - The Logistic Regression model is the best performer for predicting breast cancer
