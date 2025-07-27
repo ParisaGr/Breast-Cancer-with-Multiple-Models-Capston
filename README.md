@@ -47,11 +47,10 @@ Model Performance:
 
 Feature Importance:
    - The top 10 most important features for prediction are shown below in the order of importance, which can be useful for medical professionals:
-   
-    * texture_smoothness_product      
-worst_mean_ratio      
-worst concave points      
-mean concave points      
+        * texture_smoothness_product
+        * worst_mean_ratio
+        * worst concave points
+        * mean concave points      
 mean compactness     
 worst concavity     
 worst area      
