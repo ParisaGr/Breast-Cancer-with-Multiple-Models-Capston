@@ -43,7 +43,7 @@ The project covered:
 Model Performance:
    
  - The Logistic Regression model is the best performer for predicting breast cancer
- - It achieves an F1-Score of 0.9861 after hyperparameter tuning.
+ - It achieves an F1-Score of 0.9861 after hyperparameter tuning
 
 Feature Importance:
    - The top 10 most important features for prediction are shown below in the order of importance, which can be useful for medical professionals:
