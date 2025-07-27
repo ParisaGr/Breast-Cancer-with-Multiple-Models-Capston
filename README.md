@@ -50,13 +50,13 @@ Feature Importance:
         * texture_smoothness_product
         * worst_mean_ratio
         * worst concave points
-        * mean concave points      
-mean compactness     
-worst concavity     
-worst area      
-worst radius     
-area_perimeter_ratio     
-area error     
+        * mean concave points
+        * mean compactness
+        * worst concavity
+        * worst area
+        * worst radius
+        * area_perimeter_ratio
+        * area error     
 
 Clinical Implications:
    - The model could serve as a useful tool for supporting medical diagnosis
